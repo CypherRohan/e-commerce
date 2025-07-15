@@ -138,7 +138,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- Pradeep Singh
+- Rohan Saini
 
 ## 🙏 Acknowledgments
 
